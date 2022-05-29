@@ -1,0 +1,32 @@
+.col-md{
+    border: 2px black;
+}
+body{
+    background-color: #282828;
+    color: blanchedalmond;
+    font-family: 'Cutive Mono', monospace;
+
+    
+}
+.btn{
+    border-radius: 50px;
+    color:palevioletred;
+    border: 2px solid;
+    
+}
+.btn:hover{
+    background-color: papayawhip;
+    color: black;
+}
+.card{
+    background-color: #344243;
+    border-radius: 15px;
+}
+.footer{
+    background-color: #344243;
+    border-radius: 15px;
+}
+.mail{
+    width: 250px;
+    border-radius: 50px;
+}
